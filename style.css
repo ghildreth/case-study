@@ -1,0 +1,35 @@
+#random-word {
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #b1cbbb;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    color: #c94c4c;
+
+}
+
+.title img {
+    height: 6em;
+    width: 10em;
+}
+
+.form {
+
+}
+
+.rambo {
+    height: 14px;
+    width: 14px;
+}
+h4 {
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
